@@ -1,0 +1,126 @@
+{
+  "title":"De qual região de Runeterra você seria?",
+  "questions":[
+    {
+      "id":1,
+      "question": "A magia é:",
+      "options":[
+        {"id": 1, "name":"Algo a se temer", "alias":"Demacia"},
+        {"id": 2, "name":"Poder", "alias":"Noxus"},
+        {"id": 3, "name":"Parte de quem somos", "alias":"Ionia"},
+        {"id": 4, "name":"Outro nome para a ciência", "alias":"Piltover"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "O que você gosta de fazer no seu tempo livre?",
+      "options":[
+        {"id": 1, "name":"Observar as estrelas", "alias":"Targon"},
+        {"id": 2, "name":"Dormir", "alias":"O Vazio"},
+        {"id": 3, "name":"Jogar", "alias":"Bandópolis"},
+        {"id": 4, "name":"Estudar", "alias":"Piltover"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "O que você prefere?",
+      "options":[
+        {"id": 1, "name":"Calor", "alias":"Shurima"},
+        {"id": 2, "name":"Frio", "alias":"Freljord"},
+        {"id": 3, "name":"Um equilíbrio entre os dois", "alias":"Ionia"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual estilo mais te agrada?",
+      "options":[
+        {"id": 1, "name":"Steampunk", "alias":"Zaun"},
+        {"id": 2, "name":"Armaduras pesadas", "alias":"Noxus"},
+        {"id": 3, "name":"Agasalhos", "alias":"Freljord"},
+        {"id": 4, "name":"Roupas leves", "alias":"Ixtal"},
+        {"id": 5, "name":"Roupas coloridas", "alias":"Bandópolis"},
+        {"id": 6, "name":"Roupas escuras", "alias":"Ilhas das Sombras"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual é a sua cor favorita?",
+      "options":[
+        {"id": 1, "name":"Preto", "alias":"Ilhas das Sombras"},
+        {"id": 2, "name":"Branco", "alias":"Demacia"},
+        {"id": 3, "name":"Ouro", "alias":"Shurima"},
+        {"id": 4, "name":"Prata", "alias":"Targon"},
+        {"id": 5, "name":"Verde", "alias":"Águas de Sentina"},
+        {"id": 6, "name":"Roxo", "alias":"O Vazio"},
+        {"id": 7, "name":"Azul", "alias":"Freljord"},
+        {"id": 8, "name":"Vermelho", "alias":"Noxus"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Como um crime deve ser combatido?",
+      "options":[
+        {"id": 1, "name":"Investigação e detenção", "alias":"Piltover"},
+        {"id": 2, "name":"Com punições severas", "alias":"Shurima"},
+        {"id": 3, "name":"Dando uma segunda chance", "alias":"Ionia"},
+        {"id": 4, "name":"Um tiro deve resolver", "alias":"Águas de Sentina"},
+        {"id": 5, "name":"Com mais crime, é claro!", "alias":"Zaun"},
+        {"id": 6, "name":"Sei lá, não sou policial.", "alias":"O Vazio"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Qual arma você escolheria para uma batalha?",
+      "options":[
+        {"id": 1, "name":"Armas de fogo", "alias":"Águas de Sentina"},
+        {"id": 2, "name":"Gelo, nada é melhor que gelo.", "alias":"Freljord"},
+        {"id": 3, "name":"Algo explosivo", "alias":"Zaun"},
+        {"id": 4, "name":"Magia elemental", "alias":"Ixtal"},
+        {"id": 5, "name":"O poder dos celestiais", "alias":"Targon"},
+        {"id": 6, "name":"Um exército de mortos-vivos", "alias":"Ilhas das Sombras"}
+      ]
+    },
+    {
+      "id":8,
+      "question": "O que você não suporta em uma pessoa?",
+      "options":[
+        {"id": 1, "name":"Maldade", "alias":"Demacia"},
+        {"id": 2, "name":"Negatividade", "alias":"Bandópolis"},
+        {"id": 3, "name":"Fraqueza", "alias":"Ixtal"},
+        {"id": 4, "name":"Ingenuidade", "alias":"Águas de Sentina"},
+        {"id": 5, "name":"Covardia", "alias":"Noxus"},
+        {"id": 6, "name":"Falta de amor", "alias":"Ilhas das Sombras"}
+      ]
+    },
+    {
+      "id":9,
+      "question": "O que você gostaria de ser?",
+      "options":[
+        {"id": 1, "name":"Guerreiro(a)", "alias":"Demacia"},
+        {"id": 2, "name":"Rei/Rainha", "alias":"Shurima"},
+        {"id": 3, "name":"Líder Espiritual", "alias":"Ionia"},
+        {"id": 4, "name":"Aventureiro", "alias":"Bandópolis"},
+        {"id": 5, "name":"Mago", "alias":"Ixtal"},
+        {"id": 6, "name":"Astrônomo", "alias":"Targon"},
+        {"id": 7, "name":"Químico", "alias":"Zaun"},
+        {"id": 8, "name":"Não tenho certeza", "alias":"O Vazio"}
+      ]
+    }
+
+  ],
+  "results":{
+    "Bandópolis": "Um lugar misterioso feito de pura magia, os habitantes desse local são criaturinhas mágicas que adoram explorar.",
+    "Demacia": "A cidade da justiça tem seus muros feitos de petricita, uma pedra que absorve magia. Seu exército é organizado e bem treinado para enfrentar a ameaça dos magos.",
+    "Freljord": "Gelo... gelo pra todo lado, dizem que os observadores estão soterrados em alguma parte desse local. Talvez dê pra encontrar algum se você conseguir ignorar a guerra civil.",
+    "Ilhas das Sombras": "Esse lugar já foi lindo e cheio de vida, tudo mudou quando um rei egoísta tentou reviver a sua amada ignorando os avisos dos habitantes do local. Hoje é repleta de espectros por causa da maldição do rei.",
+    "Ionia": "Uma terra repleta de magia. Seus habitantes prezam pela harmonia, mas isso não significam que são indefesos. Houve uma grande guerra nesse lugar quando Noxus invadiu.",
+    "Ixtal": "Uma cidade reconhecida por seu domínio elemental. Os magos desse lugar sobreviveram ao Vazio e aos Darkin. Se distanciaram dos reinos vizinhos usando uma floresta como escudo.",
+    "Noxus": "Poder é tudo o que importa por aqui. Não importa de onde você veio, as pessoas daqui estão interessadas apenas na sua utilidade pro império. Covardia não será tolerada no exército Noxiano.",
+    "O Vazio": "Ao contrário do que o nome da a entender, esse lugar é repleto de criaturas nefastas com uma fome insaciável. O objetivo dessas criaturas é destruir Runeterra para que possam voltar a adormecerem em sua eterna escuridão.",
+    "Piltover": "A cidade do progresso está sempre inovando com suas invenções (A grande maioria das ideias é roubada de Zaun, mas ninguem se importa, não é mesmo?). Aqui as pessoas usam e abusam de Hextech, uma fonte de energia que mistura ciência e magia.",
+    "Shurima": "Um enorme deserto cheio de tesouros soterrados. Ruínas de um antigo império que está ressurgindo graças ao retorno do Imperador Azir. A ameaça do Vazio surgiu nesse lugar.",
+    "Targon": "A maior montanha de Runeterra fica aqui. Os destemidos escalam a montanha para receber a benção dos Aspectos ou para descobriram quem são... ou morrem tentando. Poucos conseguiram chegar ao pico do Monte Targon.",
+    "Zaun": "Um grande distrito subterrâneo aos pés de Piltover. A pouca luz que chega é filtrada pela fumaça tóxica que há nesse lugar. Os barões químicos controlam esse lugar, o que fez com que a cidade ficasse poluída e perigosa.",
+    "Águas de Sentina": "Uma cidade portuária cheia de mercenários, piratas e contrabandistas. Por mais que seja um local perigoso, também é um local cheio de novas oportunidades. Quem tem dinheiro consegue de tudo aqui."
+  }
+}
